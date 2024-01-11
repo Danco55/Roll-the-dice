@@ -21,7 +21,7 @@ h1 {
   animation-name: roll;
 }
 
-@keyframes roll {
+@keyframes roll {  
   40% {
     transform: rotateY(180deg) rotateZ(180deg);
   }
